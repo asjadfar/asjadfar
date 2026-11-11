@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**asjadfar/asjadfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Asjad Farooq
+Shopify Store Designer | Complete Ecommerce Store Setup
+I build complete, ready-to-sell Shopify stores: theme setup and customization, products, collections, bundles, payments, shipping and launch.
+## What I do
+- Complete Shopify store setup
+- Theme setup and customization
+- Products, collections and bundles
+- COD and card payment setup
+- Mobile-first store design
+## Portfolio
+- Fragrance Empire — https://fragranceempire.my — Live Shopify store, 141 products, 18 brands, Malaysia
+- Fiverr — https://www.fiverr.com/s/L34yBpA — Shopify store design gig, from $80
+## Skills
+Shopify, Shopify Store Design, Website Design, Ecommerce, Dropshipping
+## Contact
+- Website: https://fragranceempire.my
+- Fiverr: https://www.fiverr.com/s/L34yBpA

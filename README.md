@@ -1,17 +1,21 @@
 # Hi, I'm Asjad Farooq
-Shopify Store Designer | Complete Ecommerce Store Setup
-I build complete, ready-to-sell Shopify stores: theme setup and customization, products, collections, bundles, payments, shipping and launch.
+Shopify Store Designer | Web Developer | SEO
+I build complete, ready-to-sell Shopify stores and modern responsive websites: theme setup and customization, products, collections, bundles, payments, shipping, SEO and launch.
 ## What I do
 - Complete Shopify store setup
 - Theme setup and customization
 - Products, collections and bundles
 - COD and card payment setup
 - Mobile-first store design
+- Custom website development (responsive, modern business websites)
+- SEO — Shopify store SEO and YouTube video SEO
+- Landing page design (1-page business landing pages)
+- YouTube channel setup and video SEO
 ## Portfolio
 - Fragrance Empire — https://fragranceempire.my — Live Shopify store I built and manage, 155 products, 18 brands, Malaysia
 - Fiverr — https://www.fiverr.com/s/L34yBpA — Shopify store design gig, from $80
 ## Skills
-Shopify, Shopify Store Design, Website Design, Ecommerce, Dropshipping
+Shopify, Shopify Store Design, Web Development, Website Design, SEO, YouTube SEO, Landing Pages, Ecommerce, Dropshipping
 ## Claude Skills I Built
 12 complete Claude skills — free on GitHub, also listed on Agensi (https://www.agensi.io/users/asjad-ch):
 

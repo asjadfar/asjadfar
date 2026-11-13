@@ -8,10 +8,9 @@ I build complete, ready-to-sell Shopify stores: theme setup and customization, p
 - COD and card payment setup
 - Mobile-first store design
 ## Portfolio
-- Fragrance Empire — https://fragranceempire.my — Live Shopify store, 141 products, 18 brands, Malaysia
+- Fragrance Empire — https://fragranceempire.my — Live Shopify store I built and manage, 155 products, 18 brands, Malaysia
 - Fiverr — https://www.fiverr.com/s/L34yBpA — Shopify store design gig, from $80
 ## Skills
 Shopify, Shopify Store Design, Website Design, Ecommerce, Dropshipping
 ## Contact
-- Website: https://fragranceempire.my
 - Fiverr: https://www.fiverr.com/s/L34yBpA

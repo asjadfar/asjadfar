@@ -17,7 +17,7 @@ I build complete, ready-to-sell Shopify stores and modern responsive websites: t
 ## Skills
 Shopify, Shopify Store Design, Web Development, Website Design, SEO, YouTube SEO, Landing Pages, Ecommerce, Dropshipping
 ## Claude Skills I Built
-12 complete Claude skills — free on GitHub, also listed on Agensi (https://www.agensi.io/users/asjad-ch):
+12 complete Claude skills — free on GitHub, also listed on Agensi (https://www.agensi.io/users/asjadfar):
 
 **Shopify**
 - [shopify-store-automation](https://github.com/asjadfar/shopify-store-automation)
